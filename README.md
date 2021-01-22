@@ -30,6 +30,7 @@ Hobby project for Unifaun developers
 ### Graphics editors
 * http://multipaint.kameli.net/
 * http://hammarberg.github.io/pixcen/
+* http://grafx2.chez.com/
 
 ### Sprite editors
 * https://www.spritemate.com/
