@@ -1,10 +1,15 @@
 # c64-hp-01
 Hobby project for Unifaun developers
 
-# References
-https://github.com/cliffordcarnmo/c64ref/blob/main/c64ref.txt
+### References
+* https://codebase64.org/doku.php
+* http://www.6502.org/tutorials/65c02opcodes.html
+* http://www.6502.org/tutorials/
+* https://codebase64.org/doku.php
+* http://skilldrick.github.io/easy6502/
+* http://6502.org/tutorials/interrupts.html
+* https://github.com/cliffordcarnmo/c64ref/blob/main/c64ref.txt
 
-# Resources
 ### Compiler
 * https://sourceforge.net/projects/acme-crossass/ (the one and only)
 
