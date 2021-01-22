@@ -39,4 +39,16 @@ Hobby project for Unifaun developers
 * https://sourceforge.net/projects/goattracker2/
 * https://www.triad.se/releases/cheesecutter-v2-8-0
 
+### Demoscene
+* https://demozoo.org/
+* http://www.pouet.net/
+* http://janeway.exotica.org.uk/
+* https://csdb.dk/
+* https://files.scene.org/
+
+### Demoscene music
+* http://deepsid.chordian.net/
+* http://www.wothke.ch/playmod/
+* http://pmaster.no:9000/necta
+
 Let's go!
